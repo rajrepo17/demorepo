@@ -1,2 +1,2 @@
 # demorepo
-demorepo
+demorepo new
